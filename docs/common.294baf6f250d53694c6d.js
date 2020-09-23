@@ -1,1 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[1],{cxbk:function(n,p,o){"use strict";o.d(p,"a",(function(){return t}));const t={production:!0,api:"https://app-tectrans-planilhas.herokuapp.com"}}}]);
